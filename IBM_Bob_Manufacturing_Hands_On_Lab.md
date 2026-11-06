@@ -77,8 +77,9 @@ Use Bob to understand the project without creating or changing any files.
 
 1. Select **Ask mode**.
 
-<img width="693" height="802" alt="image" src="https://github.com/user-attachments/assets/66120401-ca6f-4d62-8688-538093ec4303" />
+Use the mode selector in the chat panel and choose Ask.
 
+<img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/56d68b49-593d-4d63-bae1-fe4ec960d73f" />
 
    
 2. Copy and submit the following prompt:
