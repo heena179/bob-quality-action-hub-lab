@@ -45,11 +45,11 @@ These files represent information supplied by different stakeholders:
 - The **JSON file** contains application configuration, reference values, and business-rule thresholds.
 
   1. Download and unzip the starter folder
-Download the starter folder from ibm.biz/bob-quality-hub to your laptop. Unzip it somewhere easy to find. Unzip the folder and ensure that you have the 3 files in it.
+Download the starter folder to your laptop. Unzip it somewhere easy to find.
 
 ## Before you begin
 
-1. Open the prepared project folder in the IBM Bob development environment.
+1. Open the unzipped project folder in the IBM Bob development environment.
 
 <img width="440" height="632" alt="image" src="https://github.com/user-attachments/assets/a2478611-f535-4641-b7e4-99683ba55ce9" />
 
