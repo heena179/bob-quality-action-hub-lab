@@ -12,18 +12,6 @@ The lab follows a simple development workflow:
 
 > **Important:** All information used in this lab is synthetic. Do not add any production data, source code, credentials, personal information, or other confidential information to the project.
 
-## Estimated time
-
-**30 minutes**
-
-| Activity | Suggested time |
-|---|---:|
-| Lab setup | 5 minutes |
-| Ask mode | 3 minutes |
-| Plan mode | 5 minutes |
-| Agent mode | 12 minutes |
-| Review and discussion | 5 minutes |
-
 ## Business scenario
 
 A fictitious automotive manufacturer wants to improve how its teams monitor production-quality incidents across multiple plants.
@@ -55,21 +43,17 @@ These files represent information supplied by different stakeholders:
 - The **JSON file** contains application configuration, reference values, and business-rule thresholds.
 
   1. Download and unzip the starter folder
-Download the starter folder from ibm.biz/bob-quality-hub. Unzip it somewhere easy to find, such as your Desktop. Double-click the downloaded .zip file (or right-click it and choose Extract) and a folder appears.
-
-
+Download the starter folder from ibm.biz/bob-quality-hub to your laptop. Unzip it somewhere easy to find. Unzip the folder and ensure that you have the 3 files in it.
 
 ## Before you begin
 
 1. Open the prepared project folder in the IBM Bob development environment.
 
 <img width="440" height="632" alt="image" src="https://github.com/user-attachments/assets/a2478611-f535-4641-b7e4-99683ba55ce9" />
-
-
    
-2. Confirm that all three project files are visible.
-3. Confirm that you are working only with the supplied synthetic data.
-4. Open the Bob chat panel.
+2. Confirm that all three project files are visible in the left pane on your Bob IDE.
+   
+3. Open the Bob chat panel.
 
 ---
 
@@ -82,6 +66,11 @@ Use Bob to understand the project without creating or changing any files.
 ### Instructions
 
 1. Select **Ask mode**.
+
+<img width="693" height="802" alt="image" src="https://github.com/user-attachments/assets/66120401-ca6f-4d62-8688-538093ec4303" />
+
+
+   
 2. Copy and submit the following prompt:
 
 ```text
@@ -99,10 +88,6 @@ Bob's summary should identify:
 - Quality incidents and corrective actions.
 - Critical and repeat-defect identification.
 - Dashboard, search, filtering, and incident-detail needs.
-
-### Discussion question
-
-Did Bob connect information across the Word, Excel, and JSON files?
 
 ---
 
