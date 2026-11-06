@@ -114,7 +114,7 @@ Ask Bob to determine how the application should be built before it modifies the 
 2. Copy and submit the following prompt:
 
 ```text
-Create a simple implementation plan for this application.
+Create a simple implementation plan for this application using HTML, CSS, and JavaScript and the provided data.
 
 Tell me:
 - What we will build
@@ -122,10 +122,11 @@ Tell me:
 - Key components
 - Order of implementation
 
-Keep it under 10 bullets. Do not build anything yet.
+Keep it under 8 bullets. Do not build anything yet.
 ```
 
-3. Review the proposed plan before continuing.
+3.  Bob may ask follow-up questions or approval for actions, please provide the information. 
+4.  Review the proposed plan before continuing.
 
 ### Check your result
 
@@ -164,7 +165,7 @@ Create a professional manufacturing dashboard with:
 - Critical and repeat-defect indicators
 - Incident details
 
-Use the provided synthetic data. Keep the solution simple, run the tests, and verify the application works.
+Use the provided data. Keep the solution simple, no frameworks, backend, database, or external APIs. Create an index.html that works directly in the browser..
 ```
 
 3. Review any actions or file changes proposed by Bob.
@@ -193,7 +194,6 @@ The application should include most or all of the following:
 Use the following checklist to evaluate the result:
 
 - [ ] The application runs successfully.
-- [ ] Only synthetic manufacturing data is used.
 - [ ] The dashboard presents useful quality KPIs.
 - [ ] Incidents can be searched or filtered.
 - [ ] Critical incidents are easy to identify.
@@ -210,7 +210,7 @@ Use the following checklist to evaluate the result:
 | Plan | Design and review an approach before implementation | How should we build it? |
 | Agent | Create, modify, test, and validate the application | Can you build it? |
 
-You could use Agent mode for many tasks, but the separate modes make your intention clear and provide useful control over when Bob should only explain, when it should plan, and when it can act.
+Note on Modes : You could use Agent mode for many tasks, but the separate modes make your intention clear and provide useful control over when Bob should only explain, when it should plan, and when it can act.
 
 ## Troubleshooting
 
