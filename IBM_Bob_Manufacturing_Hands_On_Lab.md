@@ -10,7 +10,7 @@ The lab follows a simple development workflow:
 2. **Plan mode:** Decide how to build it.
 3. **Agent mode:** Build and validate the first version.
 
-> **Important:** All information used in this lab is synthetic. Do not add Honda production data, source code, credentials, personal information, or other confidential information to the project.
+> **Important:** All information used in this lab is synthetic. Do not add any production data, source code, credentials, personal information, or other confidential information to the project.
 
 ## Estimated time
 
