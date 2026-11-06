@@ -189,18 +189,6 @@ The application should include most or all of the following:
 
 ---
 
-## Review the completed application
-
-Use the following checklist to evaluate the result:
-
-- [ ] The application runs successfully.
-- [ ] The dashboard presents useful quality KPIs.
-- [ ] Incidents can be searched or filtered.
-- [ ] Critical incidents are easy to identify.
-- [ ] Repeat defects are clearly indicated.
-- [ ] Incident details are available.
-- [ ] Important business rules are tested.
-- [ ] Bob summarizes the files created or changed.
 
 ## What the three modes demonstrated
 
