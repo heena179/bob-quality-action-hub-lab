@@ -63,7 +63,8 @@ Download the starter folder from ibm.biz/bob-quality-hub. Unzip it somewhere eas
 
 1. Open the prepared project folder in the IBM Bob development environment.
 
- ![open folder](open folder.png)
+<img width="440" height="632" alt="image" src="https://github.com/user-attachments/assets/a2478611-f535-4641-b7e4-99683ba55ce9" />
+
 
    
 2. Confirm that all three project files are visible.
