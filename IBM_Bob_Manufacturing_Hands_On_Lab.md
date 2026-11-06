@@ -77,7 +77,7 @@ Use Bob to understand the project without creating or changing any files.
 
 1. Select **Ask mode**.
 
-Use the mode selector in the chat panel and choose Ask.
+Use the mode selector in the chat panel ('+' icon) and choose Ask.
 
 <img width="2878" height="1800" alt="image" src="https://github.com/user-attachments/assets/56d68b49-593d-4d63-bae1-fe4ec960d73f" />
 
