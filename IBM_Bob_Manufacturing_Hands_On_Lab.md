@@ -30,7 +30,7 @@ By the end of this lab, you will be able to:
 
 ## Project files
 
-Download Project Files from ibm.biz/quality-hub-files
+Download Project Files from http://ibm.biz/quality-hub-files
 
 Your project folder should contain these three files:
 
