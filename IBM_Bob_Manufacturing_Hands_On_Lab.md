@@ -30,6 +30,8 @@ By the end of this lab, you will be able to:
 
 ## Project files
 
+Download Project Files from ibm.biz/quality-hub-files
+
 Your project folder should contain these three files:
 
 - `01_Manufacturing_Quality_Business_Requirements.docx`
