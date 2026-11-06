@@ -165,7 +165,7 @@ Create a professional manufacturing dashboard with:
 - Critical and repeat-defect indicators
 - Incident details
 
-Use the provided data. Keep the solution simple, no frameworks, backend, database, or external APIs. Create an index.html that works directly in the browser..
+Use the provided data. Keep the solution simple, no frameworks, backend, database, or external APIs. Create an index.html that works directly in the browser.
 ```
 
 3. Review any actions or file changes proposed by Bob.
