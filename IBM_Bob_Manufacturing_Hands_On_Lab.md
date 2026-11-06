@@ -50,6 +50,16 @@ Download the starter folder from ibm.biz/bob-quality-hub to your laptop. Unzip i
 1. Open the prepared project folder in the IBM Bob development environment.
 
 <img width="440" height="632" alt="image" src="https://github.com/user-attachments/assets/a2478611-f535-4641-b7e4-99683ba55ce9" />
+
+Trust the folder
+Bob opens new folders in Restricted Mode until you trust them. You'll see a Restricted Mode badge in the bottom-left status bar.
+
+<img width="508" height="160" alt="image" src="https://github.com/user-attachments/assets/7fab0c64-0147-442e-acb7-4de4cfc64acc" />
+
+Click the badge, then click Trust for the folder. Only trust a folder you downloaded from the event team.
+
+<img width="2310" height="1352" alt="image" src="https://github.com/user-attachments/assets/53c13f9d-08b5-4520-93ad-42735d1ee3d8" />
+
    
 2. Confirm that all three project files are visible in the left pane on your Bob IDE.
    
