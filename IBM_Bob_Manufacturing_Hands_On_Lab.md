@@ -54,9 +54,18 @@ These files represent information supplied by different stakeholders:
 - The **Excel workbook** contains functional requirements and synthetic incident data.
 - The **JSON file** contains application configuration, reference values, and business-rule thresholds.
 
+  1. Download and unzip the starter folder
+Download the starter folder from ibm.biz/bob-quality-hub. Unzip it somewhere easy to find, such as your Desktop. Double-click the downloaded .zip file (or right-click it and choose Extract) and a folder appears.
+
+
+
 ## Before you begin
 
 1. Open the prepared project folder in the IBM Bob development environment.
+
+
+
+   
 2. Confirm that all three project files are visible.
 3. Confirm that you are working only with the supplied synthetic data.
 4. Open the Bob chat panel.
